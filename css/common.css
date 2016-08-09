@@ -1,0 +1,38 @@
+*{ 
+	font-family: 'Dosis', sans-serif;
+ }
+a{
+	text-decoration: none;
+}
+img{
+	width: 100%;
+}
+.row{
+	margin: 0;
+}
+.cj-b{
+	background-color: white;
+	padding: 1%;
+	margin: 2%;
+}
+.bg-white{
+	background-color: white;
+}
+.bg-blue{
+	background-color: #2D313B;
+}
+.bg-turquoise{
+	background-color: #0CC0BF;
+}
+button, input, textarea{
+	border: none;
+}
+.mg-5{
+	margin: 5% 0%;
+}
+.pb-20{
+	padding-bottom: 20%;
+}
+.pd-2{
+	padding: 2%;
+}
